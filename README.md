@@ -272,6 +272,7 @@ by [@prologic][prologic]
  * [Vidéo](https://www.youtube.com/watch?v=4uQ6gR_xZhE)
  * [Slides](https://goldmann.pl/presentations/2014-vjbug-docker/)
  * [Code source](https://github.com/goldmann/goldmann.pl/tree/master/.presentations/2014-vjbug-docker/demos)
+* [Docker Meetups](https://www.docker.com/community/meetup-groups) 
 
 # Books
 
